@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://giovannixdev.github.io">About Me</a>
     ·
-    <a href="mailto:hashirshoaeb@gmail.com">Email</a>
+    <a href="mailto:giovanni.lituma@gmail.com">Email</a>
     ·
     <a href="https://linkedin.com/in/gio-lituma/">LinkedIn</a>
 </p>
