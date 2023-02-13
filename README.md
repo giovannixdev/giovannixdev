@@ -18,15 +18,16 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=giovannixdev&color=blue&style=flat-square" alt="giovanni profile views" />
 </p>
 
-- 🔭 I’m currently working on my smart home
-- 🌱 I’m currently learning machine learning using [PyTorch](https://pytorch.org/)
-- 💬 Ask me about Software Design Patterns
-- 📫 How to reach me: <a href="mailto:giovanninet@icloud.com">giovanninet@icloud.com</a>
-- 😄 Self taught developer
+- 🔭 I’m currently working on a web development project.
+- 🌱 I’m currently learning mobile app development.
+- 👯 I’m looking to collaborate on web development and mobile app development projects.
+- 💬 Ask me about web development and mobile app development.
+- 📫 How to reach me: You can reach me through email at <a href="mailto:giovanninet@icloud.com">giovanninet@icloud.com</a>
 - ⚡ Fun fact: A developer who doesn't like coffee.
+
 </td>
 <td>
-<img src="https://github.com/giovannixdev/giovannixdev/blob/master/ProfileCodeblock.png?raw=true" height="480" width="270">
+<img src="https://https://github.com/giovannixdev/giovannixdev/blob/master/Techstack.png" height="480" width="270">
 </td>
 </tr>
 </table>
