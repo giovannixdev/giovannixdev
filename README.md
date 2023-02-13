@@ -27,7 +27,7 @@
 
 </td>
 <td>
-<img src="https://https://github.com/giovannixdev/giovannixdev/blob/master/Techstack.png" height="480" width="270">
+<img src="https://https://github.com/giovannixdev/giovannixdev/blob/master/Techstack.png?raw=true" height="480" width="270">
 </td>
 </tr>
 </table>
