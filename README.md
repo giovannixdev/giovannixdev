@@ -4,9 +4,9 @@
 <p align="center">
   <h3 align="center">Hi 👋, I'm Giovanni</h3>
 </p>
-<p align="center">
+<!-- <p align="center">
   <h4 align="center">Software Engineer</h4>
-</p>
+</p> -->
 <p align="center">
     <a href="https://giovannixdev.github.io">About Me</a>
     ·
